@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: ÜBER
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Ja wer bin ich?
 
-### More Information
+### Noch ein Wort
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Kontaktaufnahme?
 
 [email@domain.com](mailto:email@domain.com)
